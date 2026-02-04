@@ -1,13 +1,13 @@
-# Olá, eu sou [Ray Davyd]! 👋
+# Olá, eu sou Ray Davyd! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**.
 
-Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou focado em construir uma base sólida em programação, dominando desde a lógica de baixo nível até o desenvolvimento de aplicações completas.
+Minha jornada na programação começou com a **Linguagem C**, onde construí e consolidei toda a minha **lógica de programação**. Hoje, uso essa base sólida para aprender novas tecnologias e linguagens orientadas a objetos.
 
 ### 🔭 O que estou estudando:
-- **Linguagem C**: Minha jornada na programação começou com a Linguagem C, onde construí e consolidei toda a minha lógica de programação..
-- **Java**: Aprendendo Java.
-- **Web**: Criação de interfaces com HTML e CSS.
+- **Linguagem C**: Onde tudo começou. Foco em Estruturas de Dados, Ponteiros e Algoritmos complexos.
+- **Java**: Aplicando a lógica para aprender Orientação a Objetos.
+- **Web**: Desenvolvimento de interfaces com HTML5 e CSS3.
 
 ### 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
@@ -29,4 +29,12 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou foca
 <div align="center">
   <a href="https://github.com/SEU_USUARIO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-davyd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raydavyd8@gmail.com)
