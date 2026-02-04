@@ -24,11 +24,6 @@ Minha jornada na programação começou com a **Linguagem C**, onde construí e 
 
 <br/>
 
-### 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dracula)
-
 ---
 
 ### 📫 Contato
