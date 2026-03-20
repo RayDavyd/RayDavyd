@@ -1,4 +1,4 @@
-# Olá, eu sou Ray Davyd! 👋
+# Olá, eu sou Ray Davyd! 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**.
 
@@ -25,6 +25,8 @@ Minha jornada na programação começou com a **Linguagem C**, onde construí e 
 <br/>
 
 ![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RayDavyd&theme=dark)](https://git.io/streak-stats)
 
 ---
 
