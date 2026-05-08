@@ -51,13 +51,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RayDavyd&theme=dark&hide_border=true" />
 </div>
