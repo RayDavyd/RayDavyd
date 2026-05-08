@@ -1,40 +1,75 @@
-# Olá, eu sou Ray Davyd! 
+<h1 align="center">Olá, eu sou Ray Davyd! 👋</h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**.
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFPB – Campus Cajazeiras</strong><br/>
+  Construindo minha base em desenvolvimento web e back-end.
+</p>
 
-Minha jornada na programação começou com a **Linguagem C**, onde construí e consolidei toda a minha **lógica de programação**. Hoje, uso essa base sólida para aprender novas tecnologias e linguagens orientadas a objetos.
-
-### 🔭 O que estou estudando:
-- **Linguagem C**: Onde tudo começou. Foco em Estruturas de Dados, Ponteiros e Algoritmos complexos.
-- **Java**: Aplicando a lógica para aprender Orientação a Objetos.
-- **Web**: Desenvolvimento de interfaces com HTML5 e CSS3.
-- **Git**: Versionamento de código e organização de projetos.
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RayDavyd&theme=dark"/>
-</div>
 ---
 
-### 📫 Contato
+## 🧑‍💻 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-davyd/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raydavyd8@gmail.com)
+- 🎓 Cursando **ADS** no IFPB Cajazeiras
+- 🌱 Atualmente estudando **Java (OOP → Spring Boot)**
+- 💡 Toda minha base de lógica vem da **Linguagem C**
+- 🚀 Focado em desenvolvimento back-end e web
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+<p>
+  <img alt="C" height="35" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" title="C" />
+  &nbsp;
+  <img alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
+  &nbsp;
+  <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+</p>
+
+### Front-end
+<p>
+  <img alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
+  &nbsp;
+  <img alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
+</p>
+
+### Ferramentas & Ambiente
+<p>
+  <img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  &nbsp;
+  <img alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
+  &nbsp;
+  <img alt="VS Code" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+  &nbsp;
+  <img alt="IntelliJ IDEA" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" />
+  &nbsp;
+  <img alt="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RayDavyd&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/ray-davyd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:raydavyd8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
