@@ -51,10 +51,16 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark&hide_border=true" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RayDavyd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDavyd&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RayDavyd&theme=dark&hide_border=true" />
