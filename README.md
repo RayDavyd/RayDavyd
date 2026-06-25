@@ -91,7 +91,7 @@ public class Ray {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=RayDavyd&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
+![Trophy](https://github-trophies.vercel.app/?username=RayDavyd&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
