@@ -80,11 +80,8 @@ public class Ray {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayDavyd/RayDavyd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayDavyd/RayDavyd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RayDavyd/RayDavyd/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/RayDavyd/RayDavyd/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/RayDavyd/RayDavyd/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
@@ -94,7 +91,7 @@ public class Ray {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=RayDavyd&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=RayDavyd&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
